@@ -1,0 +1,17 @@
+{
+  "Name": "Lustdew Valley Chinese Translation",
+  "Author": "Trashracc1124 (Original) / Community (Chinese Translation)",
+  "Version": "1.0.0",
+  "Description": "Lustdew Valley mod 的简体中文汉化包。需配合原版 Lustdew Valley 使用，当游戏语言设为中文时自动生效。",
+  "UniqueID": "Trashracc.Lustdew.Chinese",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Trashracc.Lustdew",
+      "IsRequired": true
+    }
+  ]
+}

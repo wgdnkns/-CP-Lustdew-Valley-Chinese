@@ -1,0 +1,238 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "LogName": "Map Strings - Chinese",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Custom_RaccoonRoom.1": "你想待多久都行，我喜欢有人陪着。",
+        "Custom_RaccoonRoom.2": "很高兴见到你，我的朋友。",
+        "Custom_RaccoonClub.1": "抱歉哥们，这位有人了。",
+        "Custom_RaccoonClub.2": "是只有我觉得热还是这里真的热？",
+        "Custom_RaccoonClub.3": "嗯嗯，就是这样，把我这一大坨都吞下去。",
+        "Custom_RaccoonClub.4": "我从没见过有人像那样喷射……太刺激了。",
+        "Custom_RaccoonClub.5": "我都已经高潮三次了，但我的鸡巴还是硬的。我控制不住。",
+        "Custom_RaccoonClub.6": "哦操，没错，这正是我现在需要的。",
+        "Custom_RaccoonClub.7": "呃，我快要喷了。",
+        "Custom_RaccoonClub.8": "他们这儿有假阳具，所以女孩们也能一起玩。",
+        "Custom_RaccoonClub.9": "即将开放。"
+      }
+    },
+    {
+      "LogName": "Custom Objects - Chinese",
+      "Action": "EditData",
+      "Target": "Data/Objects",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Trashracc.Lustdew_AbigailsBBC": {
+          "Name": "Trashracc.Lustdew_AbigailsBBC",
+          "Displayname": "阿比盖尔的大黑鸡巴",
+          "Description": "一根非常大、黑色的假阳具。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 0,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_EmilysCrystal": {
+          "Name": "Trashracc.Lustdew_EmilysCrystal",
+          "Displayname": "艾米丽的水晶",
+          "Description": "一个翡翠形状的假阳具。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 1,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_HaleysButtplug": {
+          "Name": "Trashracc.Lustdew_HaleysButtplug",
+          "Displayname": "海莉的肛门塞",
+          "Description": "一个粉色闪亮的肛门塞。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 2,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_LeahsBeads": {
+          "Name": "Trashracc.Lustdew_LeahsBeads",
+          "Displayname": "莉亚的珠子",
+          "Description": "用红宝石制成的肛门拉珠。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 3,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_MarusVibrator": {
+          "Name": "Trashracc.Lustdew_MarusVibrator",
+          "Displayname": "玛鲁的振动棒",
+          "Description": "一个高科技振动棒，上面有闪亮的按钮。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 4,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_PennysDildo": {
+          "Name": "Trashracc.Lustdew_PennysDildo",
+          "Displayname": "潘妮的假阳具",
+          "Description": "一个普通简单的假阳具。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 5,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_Condom": {
+          "Name": "Trashracc.Lustdew_Condom",
+          "Displayname": "安全套",
+          "Description": "拿着它进入 Lustdew 房间即可开始性爱。",
+          "Type": "Basic",
+          "Category": -24,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 6,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_UsedCondom": {
+          "Name": "Trashracc.Lustdew_UsedCondom",
+          "Displayname": "用过的安全套",
+          "Description": "黏糊糊的，装满了精液。",
+          "Type": "Litter",
+          "Category": -20,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 9
+        },
+        "Trashracc.Lustdew_UsedTissue": {
+          "Name": "Trashracc.Lustdew_UsedTissue",
+          "Displayname": "用过的纸巾",
+          "Description": "一张干涸的精液纸巾。",
+          "Type": "Litter",
+          "Category": -20,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 8
+        },
+        "Trashracc.Lustdew_RaccoonCoinz": {
+          "Name": "Trashracc.Lustdew_RaccoonCoinz",
+          "Displayname": "浣熊金币",
+          "Description": "一种特殊代币，可用于玩具自动售货机。",
+          "Type": "Basic",
+          "Category": -29,
+          "Price": 500,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 10,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_HolyBible": {
+          "Name": "Trashracc.Lustdew_HolyBible",
+          "Displayname": "约巴圣书",
+          "Description": "它什么用也没有……",
+          "Type": "Basic",
+          "Category": -29,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 11,
+          "ContextTags": [ "not_giftable" ]
+        },
+        "Trashracc.Lustdew_LewdFabric": {
+          "Name": "Trashracc.Lustdew_LewdFabric",
+          "Displayname": "淫秽布料",
+          "Description": "一匹散发着性爱气味的布料。",
+          "Type": "Basic",
+          "Category": -26,
+          "Price": 200,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 13
+        },
+        "Trashracc.Lustdew_JarOfCum": {
+          "Name": "Trashracc.Lustdew_JarOfCum",
+          "Displayname": "精液罐",
+          "Description": "这不是蛋黄酱。但如果你想要，它也可以是？",
+          "Type": "Basic",
+          "Category": -26,
+          "Price": 200,
+          "Texture": "Trashracc.Lustdew/objects",
+          "SpriteIndex": 14,
+          "Edibility": 20,
+          "IsDrink": true
+        }
+      }
+    },
+    {
+      "LogName": "Pants - Chinese",
+      "Action": "EditData",
+      "Target": "Data/pants",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Trashracc.Lustdew_Strapon": {
+          "Name": "Trashracc.Lustdew_Strapon",
+          "DisplayName": "假阳具腰带",
+          "Description": "可穿戴的阴茎。",
+          "Texture": "Trashracc.Lustdew/pants",
+          "SpriteIndex": "0",
+          "CanBeDyed": "true"
+        }
+      }
+    },
+    {
+      "LogName": "Shirts - Chinese",
+      "Action": "EditData",
+      "Target": "Data/shirts",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Trashracc.Lustdew_Bra": {
+          "Name": "Trashracc.Lustdew_Bra",
+          "DisplayName": "紧身胸罩",
+          "Description": "几乎遮不住什么。",
+          "Texture": "Trashracc.Lustdew/shirts",
+          "SpriteIndex": "0",
+          "HasSleeves": "false",
+          "CanBeDyed": "true"
+        }
+      }
+    },
+    {
+      "LogName": "Furniture Names - Chinese",
+      "Action": "EditData",
+      "Target": "Data/Furniture",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Trashracc.Lustdew_Tentacle": "Trashracc.Lustdew_Tentacle/Chair/1 2/1 1/1/2000/2/触手/0/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_Stallion": "Trashracc.Lustdew_Stallion/Chair/1 2/1 1/1/2000/2/种马/1/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_Doberman": "Trashracc.Lustdew_Doberman/Chair/1 2/1 1/1/2000/2/杜宾犬/2/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_Archer": "Trashracc.Lustdew_Archer/Chair/1 2/1 1/1/2000/2/弓箭手/3/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_BadDragon": "Trashracc.Lustdew_BadDragon/Chair/1 1/1 1/1/2000/2/恶龙/4/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_Werecroc": "Trashracc.Lustdew_Werecroc/Chair/1 1/1 1/1/2000/2/狼鳄/5/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_NightDrake": "Trashracc.Lustdew_NightDrake/Chair/1 1/1 1/1/2000/2/夜龙/6/Trashracc.Lustdew\\furniture/true/collection_bdtoys",
+        "Trashracc.Lustdew_EarthDragon": "Trashracc.Lustdew_EarthDragon/Chair/1 1/1 1/1/2000/2/地龙/7/Trashracc.Lustdew\\furniture/true/collection_bdtoys"
+      }
+    },
+    {
+      "LogName": "Hat Names - Chinese",
+      "Action": "EditData",
+      "Target": "Data/hats",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "Trashracc.Lustdew_RaccoonEars": "Trashracc.Lustdew_RaccoonEars/好柔软！/true/true/false/浣熊耳朵/0/Trashracc.Lustdew\\hats",
+        "Trashracc.Lustdew_DragonHorns": "Trashracc.Lustdew_DragonHorns/一顶好色的帽子，给好色的人戴。/true/true/false/龙角/1/Trashracc.Lustdew\\hats"
+      }
+    },
+    {
+      "LogName": "Big Racc Event 10532 - Chinese",
+      "Action": "EditData",
+      "Target": "data/events/Custom_RaccoonRoom",
+      "When": { "Language": "zh" },
+      "Entries": {
+        "10532": "Hospital_Ambient/-1000 -1000/farmer 5 5 0/skippable/viewport 4 6 true/warp farmer 4 10/playSound doorClose/pause 1000/emote farmer 16/pause 1000/message \"哦？有客人？\"/pause 1000/message \"请原谅我这不寻常的外表……没多少人见过像我这样有男子气概的浣熊。\"/message \"这个山谷总是充满惊喜，不是吗？\"/pause 1000/move farmer 0 -2 0/emote farmer 8/message \"顺便说一句，我叫'大浣熊'。\"/pause 600/message \"我来自一个隐藏在秘密森林深处的神秘地方。但我喜欢来这里放松……\"/message \"……顺便找点乐子，你懂我的意思吗？\"/pause 1000/message \"你知道吗，我在这间桑拿房里遇到很多有趣的事情。\"/message \"镇上的女孩们经常来淋浴间，用又大又紫的玩具自慰。\"/message \"看她们能插多深真是刺激。\"/message \"有时候我希望我也能加入她们，但我怕会吓到她们……\"/pause 1000/message \"到目前为止只有一个女孩发现了我……\"/message \"她无聊的时候经常会来，让我用各种有趣的方式取悦她。\"/pause 1000/message \"但最近这里很安静。没有其他人来桑拿房了。尤其是在洗浴中心开张之后……\"/message \"也许如果我能让更多女孩来桑拿房，我就能取悦更多她们？\"/pause 1000/message \"我一直在等像你这样的人……一个偷偷摸摸的人……\"/message \"也许你能帮我个忙？如果你成功了，我会奖励你的。你觉得怎么样？\"/pause 1000/emote farmer 32/message \"太好了！你只需要偷偷溜进女孩们的房间，把她们的玩具带给我。\"/message \"我自己也想做，但我太笨重了……\"/pause 600/message \"我建议你去她们的床周围找找，因为她们通常藏在那里。\"/message \"或者去洗手间的储物柜看看，我在那里也见过一些！\"/pause 600/message \"我就指望你了！\"/end"
+      }
+    }
+  ]
+}
